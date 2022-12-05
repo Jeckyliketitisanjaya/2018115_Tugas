@@ -19,7 +19,7 @@ public class MyService extends Service {
     public void onCreate() {
         Toast.makeText(this, "Service Successfully Created", Toast.LENGTH_LONG).show();
 
-        myPlayer = MediaPlayer.create(this,R.raw.song);
+        myPlayer = MediaPlayer.create(this,R.raw.lagu);
         //setting loop play to true
         //this will make the ringtone continuously playing        myPlayer.setLooping(false); // Set looping
     }

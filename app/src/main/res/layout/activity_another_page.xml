@@ -4,7 +4,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="IV Of Spades - Come Inside Of My Heart"
+        android:text="Neck Deep - Desember"
         android:textSize="20dp"
         style="@style/Base.ThemeOverlay.AppCompat.Light"
         android:layout_gravity="center_horizontal"
